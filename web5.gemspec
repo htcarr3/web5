@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["9591402+htcarr3@users.noreply.github.com"]
 
   spec.summary = "Web5 Ruby Library"
-  spec.description = "Create, parse, and manage Decentralized Identifiers, Verifiable Credentials, and other related spec."
+  spec.description = "Create, manage and parse Decentralized Identifiers, Verifiable Credentials, and more."
   spec.homepage = "https://github.com/htcarr3/web5.rb."
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"

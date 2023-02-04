@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    web5 (0.1.1)
+    web5 (0.1.2)
 
 GEM
   remote: https://rubygems.org/
